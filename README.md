@@ -42,6 +42,9 @@ title('Frequency Response of FIR LPF using Rectangular Window');
 # OUTPUT: 
 <img width="712" height="578" alt="image" src="https://github.com/user-attachments/assets/7aba3d32-69d6-48b3-aad3-8d8e3b948f48" />
 
+<img width="873" height="503" alt="image" src="https://github.com/user-attachments/assets/14ce38e5-e154-4605-b230-43b5ef5f8d58" />
+
+
 
 # RESULT: 
 
@@ -87,6 +90,8 @@ title('Frequency Response of FIR HPF using Rectangular Window');
 
 # OUTPUT: 
 <img width="732" height="578" alt="image" src="https://github.com/user-attachments/assets/f1c8c546-61b8-4318-9ca5-843f9aa678f1" />
+
+<img width="647" height="653" alt="image" src="https://github.com/user-attachments/assets/3e5ee1b3-f35d-4217-9d16-4f3609020226" />
 
 
 # RESULT: 
@@ -134,6 +139,9 @@ title('Frequency Response of FIR BPF using Rectangular Window');
 # OUTPUT: 
 <img width="730" height="577" alt="image" src="https://github.com/user-attachments/assets/4521411c-77e9-47b3-a5bb-8fab1ce6e4a8" />
 
+<img width="720" height="657" alt="image" src="https://github.com/user-attachments/assets/cae8b0c5-fb10-435c-a590-e9dffbc75ee7" />
+
+
 
 # RESULT: 
 Thus design of BAND pass FIR digital filter using-Rectangular-Window waveforms were plotted and output was verified.
@@ -180,6 +188,9 @@ title('Frequency Response of FIR BSF using Rectangular Window');
 
 # OUTPUT: 
 <img width="707" height="582" alt="image" src="https://github.com/user-attachments/assets/8b7a6b07-3fca-49b8-8df1-77755130a231" />
+
+<img width="757" height="683" alt="image" src="https://github.com/user-attachments/assets/374389b7-d19b-445f-9ad8-0d854271ef58" />
+
 
 
 # RESULT: 
